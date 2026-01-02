@@ -1,4 +1,4 @@
-# Emilio Garcia (@emigama01)
+# Emilio Garcia
 
 🎓 Long Island University • 📍 New York  
 🔗 LinkedIn: https://www.linkedin.com/in/emilio-garc%C3%ADa-mart%C3%ADnez-578342257/
