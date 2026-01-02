@@ -44,13 +44,10 @@ I’m building projects in **AI / Machine Learning**, focused on:
 
 ---
 
-## Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emigama01&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emigama01&layout=compact&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=emigama01)
+## Quick Links
+- Repositories: https://github.com/emigama01?tab=repositories
+- Pinned projects (on profile): https://github.com/emigama01
+- Activity: https://github.com/emigama01?tab=overview
 
 ---
 
